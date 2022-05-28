@@ -1,3 +1,0 @@
-function animalType(input) {
-    
-}
