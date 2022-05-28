@@ -1,4 +1,5 @@
-Hi I am Krasimir Metev. :)
-I have a passion for creating needed functionality. 
-I love learning.
+Hi I am Krasimir Metev.
+I am now actively learning to code.
+I am a student of SoftUni.
+
 
