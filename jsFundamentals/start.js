@@ -1,6 +1,8 @@
-function solve(name, age) {
-   console.log(name);
-   console.log(age);
+function solve(input) {
+   let age = 25;
+   let name = 'Krasi';
+
+   console.log(typeof(name));
 }
 
-solve("Krasi", 25)
+solve()
